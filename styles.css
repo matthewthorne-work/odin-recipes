@@ -1,0 +1,60 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    }
+
+body {
+    background-color: #f4f4f5;
+    color: #1e1e24;
+    margin: 0;
+    padding: 16px;
+}
+
+h1{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+
+.intro-title{
+    text-align: center;
+    background-color: green;
+    color: black;
+}
+
+.recipe-list{
+    list-style-type: none;
+}
+
+
+.recipe-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#yorkshire_pudding_image{
+    width: 10%;
+}
+
+#pancake_image{
+    width: 20%;
+}
+
+#cookie-image{
+    width: 10%;
+}
+
+h2{
+    background-color: #ee1111;
+    color: white;
+    padding: 10px;
+}
+
+.link-home{
+    text-align: center;
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
